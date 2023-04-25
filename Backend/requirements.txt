@@ -1,0 +1,4 @@
+flask 
+emoji
+firebase-admin
+flask_cors

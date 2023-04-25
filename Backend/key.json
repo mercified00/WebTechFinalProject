@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mercychimeziewebtechfinalexam",
+  "private_key_id": "a03b8d2c0e2e637ef1df1b763841a8b750260112",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCr2Fq4Rj6InrvV\noWpbyS5WUo9HLtlWQnkG2w+7R3lpEIzX5q09S6HUGFzrcYTr1P8uHhnQIGUcpNaJ\n/g7htI6K+eS14FM1zLP17NnIOCJucx6XMhRTuoIMx5Ei61OPkIA9fRXoz6Fy0uA9\n3rx9iv5LR4TbetVcFM1WEQdOcTVvsur75/vcagEbG4tOLX0vfBo23X9fLYQe+spN\n5h8Zp/v5KR7jaxvDo+GcOVUmX0tzGQZQ5WpcM5DiJMjzKSEKrL2+BAqH+VdVzue4\ntMIoquhpH1RWzyxh4HhW1de2AWsVGc/ASkXVSYGOAWQJuL9nbCwm8zkCe4NPI7P8\nyGuD/TClAgMBAAECggEAAZPDRWSzpzpZu/y2xq/ign1QflVCPmXuyW7SRqRBy4KQ\n4FxoI6NhkVpF5A1PLIDwdKJnFz9s3iXvKCYSSeUH1+OyQy8TZG+ECVJKr2lAe6YH\n1lhp0ljoX6inPtxNEIjBfI781/2r3CtuTnMQZNCVQ+icog0PD0DLn6oZWJF2bZeB\nauTLtXx8c9nDr12x2y8RABIfZ6kG7mAfFRyyNuaBtZ+xcMsiy3eDNKsikfLzERsN\nuovQeMjTTOdm/ygueTkhLknhnVmOplDlpwoXIRwzV7tYojKO3wpUmH7LhScv4frz\n5nqJmofSp6dYHoizDZqVJC263GOjVP5iNwIiBTL0cQKBgQDsdMz2Hdy/IyqucKT/\ndlvJTD4jKiO0Ml5eXSfV1mHbT2OIcQxCaPfPXVwxvf1I9J6yBPyvBU3DIXgrCcMU\na46mtuHSJcp5np/94fxamOgQr5NXnFRAuliLYbvq6p9Pf91QnS3qMloXa90kiwDX\nZRCROqzlQMj8S88KA0NoDgpm+QKBgQC6DHDzUsqSDSDw0C2HxsdJaPlirwCfcnDQ\ntXdIy8xbxDNdom5YkM5CQvmNWNcLMgfpo/2UJFZW6XIjhpU8VGFgRC5kH0pRUhUt\niV6+TJaZnZblui+PQbngQ3VsSNkMZyDiHnSiruIkWDGJ0ILhtXqR38Y0NhmkUtOe\nGpGOfdUmDQKBgQCLAEaU0A06l3O5xCJawrtGZHmKtnTys0Fie6S1QieYgtziEoLA\nb3BuCFXwL927i4HW6LOaN6X09bHsqvpxAKGFQ7EQloKmaCdpWfW9VHHnjS8yq4Wj\n32e52CRd/rrUQzhY8W1SZXMsnY4Ms2I1PQY2OaX1xtXf6ri1DCIOA2L+EQKBgEvr\n98vT5UZkhSTAT1QxEfIrHFnhAGgQ02jYJK1YPTTVhACZ4F3T+degbSX5MwgmioQV\nn81sZq9g5GsK6KuN447dQ/Ens7QrwuiqPjd6GZrmbEWjDPVw5OFXpftiXvBoxUqB\nEyewJiietNiAdmiVHkeZAdEcoqokAqdqQCvdvbWhAoGAHIOBUGM+gj6/wZA10NQ/\nXIQ1LPqk2VXxnFWJgzCGWjQIW1psdsqknir/OZBkKWJ9GJONHSLVu6i+jgVR4BPY\nqy9kmaRwSWlG00m7zU1EPhW6lWyFXg5I/xlcJJTuv0/ydBuYC29jochy3BKo9FNW\nyuGPiX4kNmgMWSacfgWBbd8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fdnb9@mercychimeziewebtechfinalexam.iam.gserviceaccount.com",
+  "client_id": "102208691164038362748",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fdnb9%40mercychimeziewebtechfinalexam.iam.gserviceaccount.com"
+}

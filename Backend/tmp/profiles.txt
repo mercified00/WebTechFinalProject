@@ -1,0 +1,58 @@
+
+  [
+    {
+      "name": "Mercy Chimezie",
+      "email": "mercy.chimezie@ashesi.edu.gh",
+      "student_id": "58142024",
+      "year_group": "2024",
+      "major": "Computer Science",
+      "dob": "17-08-2001",
+      "campus residency": "Yes",
+      "best food": "Okro",
+      "best movie": "Passion of Christ"
+    },
+    {
+      "name": "Glory Chimezie",
+      "email": "glory.chimezie@ashesi.edu.gh",
+      "student_id": "68142024",
+      "year_group": "2025",
+      "major": "Computer Engineering",
+      "dob": "18-08-2001",
+      "campus residency": "No",
+      "best food": "Banku",
+      "best movie": "Kilimanja"
+    },
+    {
+      "name": "Grace Chimezie",
+      "email": "grace.chimezie@ashesi.edu.gh",
+      "student_id": "78142024",
+      "year_group": "2026",
+      "major": "Mechanical Engineering",
+      "dob": "16-08-2001",
+      "campus residency": "Yes",
+      "best food": "bread",
+      "best movie": "silimano"
+    },
+    {
+      "name": "Ruth Chimezie",
+      "email": "ruth.chimezie@ashesi.edu.gh",
+      "student_id": "88142024",
+      "year_group": "2027",
+      "major": "Electrical Engineering",
+      "dob": "21-08-2001",
+      "campus residency": "No",
+      "best food": "Jollof Rice",
+      "best movie": "Twins life"
+    },
+    {
+      "name": "Andrew Chimezie",
+      "email": "andrew.chimezie@ashesi.edu.gh",
+      "student_id": "98142024",
+      "year_group": "2024",
+      "major": "Business Administration",
+      "dob": "30-08-2001",
+      "campus residency": "Yes",
+      "best food": "Wafers",
+      "best movie": "Sounds of Music"
+    }
+  ]
